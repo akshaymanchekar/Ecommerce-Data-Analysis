@@ -1,5 +1,8 @@
 # 🛒 Ecommerce Data Analysis Dashboard  
 
+![Ecommerce Data Analysis Cover Photo_1](https://github.com/user-attachments/assets/9fef8d83-f8bd-4742-95e4-7fe05b58782b)
+
+
 📊 A comprehensive **Ecommerce Data Analysis Dashboard** created to analyze key metrics such as revenue, customer behavior, product performance, and delivery trends. Built with a focus on usability, the dashboard provides interactive insights to make data-driven decisions.  
 
 ---
