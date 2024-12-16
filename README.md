@@ -5,12 +5,12 @@
 
 📊 A comprehensive **Ecommerce Data Analysis Dashboard** created to analyze key metrics such as revenue, customer behavior, product performance, and delivery trends. Built with a focus on usability, the dashboard provides interactive insights to make data-driven decisions.  
 
----
+<br>
 
 ## 🎯 Objective  
 The goal of this dashboard is to enable a deep dive into ecommerce sales data, identify trends, and understand customer preferences and delivery performance.  
 
----
+<br>
 
 ## 🗂️ Data Overview  
 
@@ -36,7 +36,7 @@ The goal of this dashboard is to enable a deep dive into ecommerce sales data, i
 - **Delivery Types**:  
   - Express, Shipped from Abroad, Standard Delivery  
 
----
+<br>
 
 ## 📈 Dashboard Features  
 
@@ -48,7 +48,7 @@ The goal of this dashboard is to enable a deep dive into ecommerce sales data, i
   - 📅 Average Delivery Days  
   - 🔄 Number of Returned Products  
 
----
+<br>
 
 ### 📊 **Product Insights**  
 - **Donut Charts**:  
@@ -58,7 +58,7 @@ The goal of this dashboard is to enable a deep dive into ecommerce sales data, i
 - **Bar Chart**:  
   - Revenue by Product  
 
----
+<br>
 
 ### 📆 **Time-Based Insights**  
 - **Line Charts**:  
@@ -66,7 +66,7 @@ The goal of this dashboard is to enable a deep dive into ecommerce sales data, i
   - Revenue Growth by Year  
   - Number of Products Sold Over the Years  
 
----
+<br>
 
 ### 🌍 **Filters**  
 Make your analysis interactive with these filters:  
@@ -78,13 +78,13 @@ Make your analysis interactive with these filters:
 - 🚚 **Delivery Type**  
 - 📦 **Delivery Status**  
 
----
+<br>
 
 ## 📸 Dashboard Snapshots  
 ![Ecommerce_SS_1](https://github.com/user-attachments/assets/d09a7573-32a4-43c4-9ba4-9caf40d0dba6)
 
 
----
+<br>
 
 ## 💡 Key Insights  
 1. 📈 **Revenue Growth**: Steady increase in total revenue year-over-year.  
@@ -97,14 +97,14 @@ Make your analysis interactive with these filters:
 5. 🚚 **Delivery Insights**:  
    - **Express Delivery** was the most popular choice.  
 
----
+<br>
 
 ## 🚀 Tools & Technologies  
 - **Power BI** for dashboard creation and visualization.  
 - **SQL** for data preprocessing and querying.  
 - **Excel** for data cleanup and organization.  
 
----
+<br>
 <p align="center"> <a href="mailto:akshay.manchekar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/akshaymanchekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.kaggle.com/akshaymanchekar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> <a href="https://www.hackerrank.com/akshay_mancheka1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a> </p>
 
 
